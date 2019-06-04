@@ -23,6 +23,6 @@ You can manage your python environment easily with [Anaconda](https://www.anacon
 
 ## Segmentated images
 
-
+![Segmentation Result](https://github.com/Eclear/Attn-Unet-Prostate-Segmentation/blob/master/images/attn_ds_dice.png)
 
 >Thanks to Nabsabraham and her [focal-tversky-unet](https://github.com/nabsabraham/focal-tversky-unet) !
