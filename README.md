@@ -1,6 +1,6 @@
 # Attn-Unet-Prostate-Segmentation
 
-This is my Keras implementation of prostate MR images segmentation with Attention UNet(UNet with attention gates to make training foucus on Region if Interest)    
+This is my Keras implementation of prostate MR images segmentation with Attention UNet(UNet with attention gates to make training foucus on Region of Interest)    
 Tested on Promise12 dataset, got DSC of 0.812   
 
 ## Run this net
