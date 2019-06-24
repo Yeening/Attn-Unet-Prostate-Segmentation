@@ -13,12 +13,14 @@ Tested on Promise12 dataset, got DSC of **0.812**
 
 ## Environment
 * Python3
-* Keras 2.2.4
-* SKlearn
-* scipy
-* scikit image
-* matplotlib
-* Python-OpenCV
+* Required packages:
+  * Keras 2.2.4
+  * SKlearn
+  * scipy
+  * scikit image
+  * matplotlib
+  * Python-OpenCV   
+
 You can manage your python environment easily with [Anaconda](https://www.anaconda.com/), and you can find the required packages with [PYPI](https://pypi.org/)
 
 ## Segmentated images
